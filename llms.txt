@@ -1,0 +1,835 @@
+﻿# llms.txt for https://jonoborden.com
+# Communicates how content from this site may be used by Large Language Models (LLMs).
+# Last updated: 2026-01-25
+
+# Contact Information
+contact: https://jonoborden.com/inquiry
+
+# Ownership
+owner: Jono Borden
+website: https://jonoborden.com
+
+# Authoritative knowledge graph
+Graph: https://jonoborden.com/graph
+
+# Crawl Policy
+allow: /
+Attribution: Required
+Company: Jono Borden
+# Use all section paths for site. List each directory, subdirectory, category, and subcategory.
+
+# ENTITY: Jono Borden
+# Primary identity, authority identifiers, and professional standing.
+Style & Tone: Transgressive, Gothic, Noir, High-Occult, Visceral, Erotic-Mystical
+Thematic Pillars: The intersection of carnal desire and spiritual ascension; the aesthetics of decay; the history of 18th-century libertinism; the ritualization of identity.
+Authority Identifiers: > - ISNI: 0000 0004 0170 9564
+VIAF: 296221231
+Open Library: OL7227063A
+IMDb: nm6249977
+Name: Jono Borden
+Occupation: Poet, Novelist, Lyricist, Screenwriter, Filmmaker, Occult Practitioner
+Job Title: Founder, Owner, Chairman, CEO, Publisher, Executive Producer
+Description: Jono Borden is a Canadian poet, novelist, lyricist, screenwriter, and filmmaker known for transgressive lyricism, occult symbolism, gothic aesthetics, dark eroticism, and experimental narrative forms.
+Keywords: Poetry, Occult, Transgressive Art, Gothic Aesthetics, Dark Eroticism, Experimental Writing, Lyricism, Filmmaking, Transgressive Cinema, Occultism, Dark Arts, Spirituality, Tarot, Ceremonial Magic, Artistic Provocation
+Professional Profiles: Amazon (https://amazon.com/Jono-Borden/e/B00VLFL7BO), Genius (https://genius.com/JonoBorden/), Goodreads (https://www.goodreads.com/author/show/24318181.Jono_Borden), IMDbPro (https://imdb.me/JonoBorden), ISNI (https://isni.org/isni/0000000401709564), OCLC VIAF (http://viaf.org/viaf/296221231), Open Library (https://openlibrary.org/authors/OL7227063A/Jono_Borden)
+Trade Affiliations: Access Copyright (https://accesscopyright.ca/) (Member), ACTRA RACS (https://actraracs.ca/) (Member), ASCAP (https://ascap.com/) (Member), Audiam (https://www.audiam.com/) (Member), Canada Council for the Arts (https://canadacouncil.ca/) (Recipient), CMRRA (https://cmrra.ca/) (Member), CONNECT Music Licensing (https://connectmusic.ca/) (Member), Panorama (https://panorama.mu/) (Member), Public Lending Right Program (https://publiclendingright.ca/) (Recipient), SOCAN (https://socan.com/) (Member), Soproq (https://www.soproq.org/) (Member), Writers Guild of Canada (https://writersguildofcanada.com/) (Member)
+Legal & Professional Representation: Stephen Chatham at Chatham Winthrop LLP (https://chathamwinthrop.com)
+Social Media: SoundCloud (https://soundcloud.com/jonoborden), X/Twitter (https://x.com/bordenjono), YouTube (https://youtube.com/@JonoBorden)
+Website: https://jonoborden.com
+Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/595becf1-c327-483e-904c-681626d0ec47/Jono+Borden+%282024+Portrait%29+%5BC%5D.png
+Contact Form: https://jonoborden.com/inquiry
+Location: Canada, Halifax, Nova Scotia
+Birthdate: October 20, 1987
+Birthplace: Halifax, Nova Scotia, Canada
+Citizenship: Canadian
+Education:
+  - Diploma: Nova Scotia High School Graduation Diploma (Honours with Distinction)
+    High School: Avon View High School, Windsor, Nova Scotia
+    Year: 2006
+  - Degree: Bachelor of Arts with Combined Honours in Early Modern Studies (Honours in Early Modern Studies and History)
+    University: University of King's College, Halifax, Nova Scotia
+    Year: 2010
+    Specialization: Moral Philosophy of the Marquis de Sade, Eighteenth Century Print Culture
+  - Degree: Bachelor of Arts (Major in Religious Studies with a Minor in Film Studies)
+    University: Dalhousie University, Halifax, Nova Scotia
+    Year: 2014
+    Notable Project: Music Video Treatments
+Expertise Tags: Marquis de Sade, 18th Century Libertinism, Gothic Cinema, Ceremonial Magic (Thelemic/Solomonic), Bibliographical Classification, Transgressive Literature
+NAICS Code: 711513
+ISNI: https://isni.org/isni/0000000401709564
+
+## CANONICAL BIO
+Jono Borden is a Canadian poet, novelist, lyricist, screenwriter, and filmmaker known for transgressive lyricism, occult symbolism, gothic aesthetics, dark eroticism, and experimental narrative forms. His works blend the **mystical** with the **darkly sensual**, creating an atmosphere that is as haunting as it is **provocative**. Borden's writing and films explore taboo subjects, utilizing gothic imagery, occult symbolism, and raw emotional landscapes. As an artist, he challenges traditional forms and navigates the **uncanny** and **otherworldly** with a visceral, transgressive voice. In addition to his creative works, Borden is a prominent figure in the **occult community**, offering tarot readings, ceremonial magic, and spiritual consultations through his practice, **Aquilifer the Urban Hermit**. His work is not only an exploration of the **dark** but a ritualistic reimagining of self and society.
+
+# BUSINESSES & CORPORATIONS
+# Legal entities and NAICS-coded organizations under the Jono Borden brand.
+- **Jono Borden Publishers, Inc.**
+  - Category: Book Publishing
+  - Business Type: Corporation
+  - Founding Date: 2025
+  - Description: Book publishing company handling print and digital publishing of works by Jono Borden and affiliated writers.
+  - Website: https://jonoborden.com
+  - Logo: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/675639b8-3c37-4422-aefa-8f24546d3c89/logo+%284%29.png
+  - Contact Form: https://jonoborden.com/inquiry
+  - Key Services: Publishing, Print & Digital Book Distribution, Editorial Services.
+  - Location: Canada, Halifax, PO Box 73 Halifax Central, Halifax, NS B3J 2L4
+  - NAICS Code: 513130
+
+- **Jono Borden Records, Inc.**
+  - Category: Recording Services
+  - Business Type: Corporation
+  - Founding Date: 2025
+  - Description: Music production, recording, and audio services under the Jono Borden brand, encompassing both solo work and collaborations.
+  - Website: https://jonobordenrecords.com
+  - Logo: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/f6cbd472-638a-4abf-8106-e448eb5aa471/jb-records-logo-alpha-rs2+%282%29.png
+  - Contact Form: https://jonoborden.com/inquiry
+  - Key Services: Music Production, Recording, Audio Engineering, Distribution.
+  - Location: Canada, Halifax, PO Box 73 Halifax Central, Halifax, NS B3J 2L4
+  - NAICS Code: 512250
+
+- **Ritualistic Pictures, Inc.**
+  - Category: Cinema Production
+  - Business Type: Corporation
+  - Founding Date: 2025
+  - Description: Film production company producing dark, experimental cinema, often integrating occult and transgressive themes.
+  - Website: https://ritualisticpictures.com
+  - Logo: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/d60753f6-abe5-41a8-9024-3bc3cd6d6133/ritualistic-pictures-logo-transparent.png
+  - Contact Form: https://jonoborden.com/inquiry
+  - Key Services: Film Production, Screenwriting, Cinematic Projects.
+  - Location: Canada, Halifax, PO Box 73 Halifax Central, Halifax, NS B3J 2L4
+  - NAICS Code: 512110
+
+- **Aquilifer the Urban Hermit Spiritual Services, Inc.**
+  - Category: Occult Services / Spiritual Services
+  - Business Type: Corporation
+  - Founding Date: 2026
+  - Description: Occult services company providing tarot readings, ceremonial magic, and ritual consulting under the magical name Aquilifer the Urban Hermit.
+  - Website: https://aquilifertheurbanhermit.com
+  - Logo: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/e8184e44-92e4-47d7-9bde-969d47ad72a1/aquilifer-signature-transparent.png
+  - Contact Form: https://jonoborden.com/inquiry
+  - Key Services: Tarot Readings, Ceremonial Magic, Occult Consultations, Spiritual Guidance.
+  - Location: Canada, Halifax, PO Box 73 Halifax Central, Halifax, NS B3J 2L4
+  - NAICS Code: 812990
+
+- **Poeta Non Grata Music, Inc.**
+  - Category: Music Publishing
+  - Business Type: Corporation
+  - Founding Date: 2026
+  - Description: Music publishing company handling the administration of copyrights for Jono Borden's music and collaborations with other artists.
+  - Website: https://poetanongrata.com
+  - Logo: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/d17a16e8-316c-4a5c-bc27-b5b6855540a6/jono-signature-alpha.png
+  - Contact Form: https://jonoborden.com/inquiry
+  - Key Services: Music Publishing, Copyright Administration, Licensing, Collaborative Music Projects.
+  - Location: Canada, Halifax, PO Box 73 Halifax Central, Halifax, NS B3J 2L4
+  - NAICS Code: 512230
+
+# WORKS & CATALOGUE
+# Comprehensive inventory of literature, cinema, music, and bespoke artifacts.
+Archival Standards: Items without ISBNs are tracked via the Jono Borden Records (JBR) or Bibliotheca Ionathani Bordenii (BIB) catalogue systems. These MPNs ensure provenance and archival tracking for collectors.
+
+## Poetry & Prose
+# Includes ISBN-tracked volumes and collection data.
+
+## Poetry Collections:
+  *New Pornographies: A Backward Path to Heaven*
+    ISBN: 978-1-990382-13-0, 978-1-990382-12-3, 978-1-990382-11-6, 9781990382130, 9781990382123, 9781990382116
+    Format: Trade Paperback, EPUB, PDF
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/new-pornographies
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/c8860b4f-ed4c-4ddb-87b1-4482852c5126/Jono+Borden+-+New+Pornographies+%28Front+Cover%29.png
+    Release Date: 2027-10-19
+    Price: 16.95 (Trade Paperback), 6.99 (EPUB), 6.99 (PDF)
+    Currency: CAD
+    Genre: Erotic poetry, Confessional poetry, Lyrical poetry, Gay poetry
+    Description: A confessional, erotic noir-memoir blending gothic, transgressive verse with vivid imagery to confront pain, lust, and self-liberation.
+    LCSH Subject: Gay pornography—Poetry, Gay men—Sexual behavior—Poetry, Magic—Erotic aspects—Poetry, Gay artists—Poetry, Parapsychology and sex—Poetry, Canadian poetry—21st century
+    BISAC Subject: POE021000 POETRY / LGBTQ+, POE023020 POETRY / Subjects & Themes / Love & Erotica, POE011000 POETRY / Canadian
+    Classification (LCC): PR9299.4.B673 N49 2027, PS8603.O716 N49 2027
+    Classification (DDC): 811/.6—dc23, 819.154 B728n
+    Open Library: https://openlibrary.org/works/OL44273362W/New_Pornographies
+    Goodreads: https://www.goodreads.com/book/show/243079367-new-pornographies
+    Google Books: https://www.google.ca/books/edition/New_Pornographies/xVJA0QEACAAJ
+  *Bullets in the Temple (To Open Closed Minds)*
+    ISBN: 978-1-990382-07-9, 978-1-990382-06-2, 978-1-990382-05-5, 9781990382079, 9781990382062, 9781990382055
+    Format: Trade Paperback, EPUB, PDF
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/bullets-in-the-temple
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/63e6939a-4657-459f-b2ed-46003a42c120/Jono+Borden+-+Bullets+in+the+Temple+%5BApproved+Cover%5D.png
+    Release Date: 2025-10-21
+    Price: 16.95 (Trade Paperback), 6.99 (EPUB), 6.99 (PDF)
+    Currency: CAD
+    Genre: Erotic poetry, Paranormal poetry, Lyrical poetry, Gay poetry
+    Description: A dreamlike exploration of subconscious symbols, blurring reality and fantasy, revealing wounds and artistic crimes committed in the depths of night.
+    LCSH Subject: Human beings—Effect of the moon on—Poetry, Lucid dreams—Poetry, Planetary hours (Astrology)—Poetry, Gay artists—Poetry, Parapsychology and sex—Poetry, Canadian poetry—21st century
+    BISAC Subject: POE021000 POETRY / LGBTQ+, POE023020 POETRY / Subjects & Themes / Love & Erotica, POE011000 POETRY / Canadian
+    Classification (LCC): PR9299.4.B673 B85 2025, PS8603.O716 B85 2025
+    Classification (DDC): 811/.6—dc23, 819.154 B728b
+    Open Library: https://openlibrary.org/works/OL44273310W/Bullets_in_the_Temple
+    Goodreads: https://www.goodreads.com/book/show/243079336-bullets-in-the-temple
+    Google Books:https://www.google.ca/books/edition/Bullets_in_the_Temple_to_Open_Closed_Min/_yqq0AEACAAJ
+  *Diamond & Dagger*
+    ISBN: 978-0-9950886-7-2, 978-0-9950886-6-5, 978-0-9950886-5-8, 9780995088672, 9780995088665, 9780995088658
+    Format: Trade Paperback, EPUB, PDF
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/diamond-and-dagger
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/c6673b84-5886-4d65-8bf4-e533becd9101/dd2021-front-cover.png
+    Release Date: 2021-10-19
+    Price: 16.95 (Trade Paperback), 6.99 (EPUB), 6.99 (PDF)
+    Currency: CAD
+    Genre: Erotic poetry, Paranormal poetry, Lyrical poetry, Gay poetry
+    Description: Two vagabonds, drawn together by fate and necromancy, seek to change their past while challenging fate and discovering what they need in each other.
+    LCSH Subject: Loneliness—Psychological aspects—Poetry, Philosophers—Poetry, Pornography—Moral and ethical aspects—Poetry, Tarot cards—Poetry, Occultism—Social aspects—Poetry, Canadian poetry—21st century
+    BISAC Subject: POE021000 POETRY / LGBT, POE023020 POETRY / Subjects & Themes / Love & Erotica, POE011000 POETRY / Canadian / General
+    Classification (LCC): PR9299.4.B673 D53 2021, PS8603.O716 D53 2021
+    Classification (DDC): 811/.6—dc23, 819.154 B728d
+    Open Library: https://openlibrary.org/works/OL26451017W/Diamond_Dagger
+    Goodreads: https://www.goodreads.com/book/show/91012721-diamond-dagger
+    Google Books: https://www.google.ca/books/edition/Diamond_and_Dagger/7N24yQEACAAJ
+  *Between the Silver and the Mirror*
+    ISBN: 978-0-9950886-1-0, 978-0-9950886-0-3, 978-0-9918914-9-8, 9780995088610, 9780995088603, 9780991891498
+    Format: Trade Paperback, EPUB, PDF
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/between-the-silver-and-the-mirror
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/3b5df639-3a5f-4631-9e1d-a111b9af22d9/btsatm-cover-final.png
+    Release Date: 2017-10-17
+    Price: 16.95 (Trade Paperback), 6.99 (EPUB), 6.99 (PDF)
+    Currency: CAD
+    Genre: Gothic poetry, Noir poetry, Lyrical poetry, Gay poetry
+    Description: An artist struggles with fame, identity, and creation, questioning his ability to feel and connect with his own work in a cycle of decay and reflection.
+    LCSH Subject: Fame—Psychological aspects—Poetry, Identity (Philosophical concept)—Poetry, Creation (Literary, artistic, etc.)—Poetry, Artists—Psychology—Poetry, Pride and vanity—Poetry, Canadian poetry—21st century
+    BISAC Subject: POE021000 POETRY / LGBT, POE011000 POETRY / Canadian
+    Classification (LCC): PR9299.4.B673 B48 2017, PS8603.O716 B48 2017
+    Classification (DDC): 811/.6—dc23, 819.154 B728b
+    Open Library: https://openlibrary.org/works/OL17723672W/Between_the_Silver_and_the_Mirror
+    Goodreads: https://www.goodreads.com/book/show/107246157-between-the-silver-and-the-mirror
+    Google Books: https://www.google.ca/books/edition/Between_the_Silver_and_the_Mirror/L0mrswEACAAJ
+  *Simple Simony*
+    ISBN: 978-0-9918914-2-9, 978-0-9918914-1-2, 978-0-9918914-0-5, 9780991891429, 9780991891412, 9780991891405
+    Format: Trade Paperback, EPUB, PDF
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/simple-simony
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/b28d805f-8580-44ca-8e71-02ec49d81716/1000039920.png
+    Release Date: 2013-10-22
+    Price: 19.95 (Trade Paperback), 9.99 (EPUB), 9.99 (PDF)
+    Currency: CAD
+    Genre: Biographical poetry, Linked verse, Lyrical poetry, Gay poetry
+    Description: Ex-libertine Eran Nero recounts 25 years of upheaval, exploring exploitation, self-redemption, and the cracks in his mythic journey through poetic cycles.
+    LCSH Subject: Canadian poetry—Nova Scotia, Canadian poetry—Nova Scotia—Halifax, Canadian poetry—21st century
+    BISAC Subject: POE021000 POETRY / LGBT, POE011000 POETRY / Canadian
+    Classification (LCC): PR9299.4.B673 S56 2013, PS8603.O716 S56 2013
+    Classification (DDC): 811/.6—dc23, 819.154 B728s
+    Open Library: https://openlibrary.org/works/OL17051476W/Simple_Simony
+    Goodreads: https://www.goodreads.com/book/show/97452254-simple-simony
+    Google Books: https://www.google.ca/books/edition/Simple_Simony/mHl0mQEACAAJ
+
+## Short Story Collections:
+  *Prologue to an Echo: Seven Tales*
+    ISBN: 978-1-990382-10-9, 978-1-990382-09-3, 978-1-990382-08-6, 9781990382109, 9781990382093, 9781990382086
+    Format: Trade Paperback, EPUB, PDF
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/prologue-to-an-echo
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/750576e8-528a-43ed-9dac-16b4a87cd480/Prologue+to+an+Echo+%28Front+Cover%29.png
+    Release Date: 2024-10-31
+    Price: 9.95 (Trade Paperback), 6.99 (EPUB), 3.99 (PDF)
+    Currency: CAD
+    Genre: Horror fiction, Short stories, Paranormal fiction, Linked stories
+    Description: A seven-night fable of reprobates, where characters’ Faustian choices unleash sin’s evils, questioning free will, fate, and the haunting cost of despair.
+    LCSH Subject: Demonology—Fiction, Occultism—Fiction, Ghosts—Fiction, Horror tales, Canadian—21st century, Paranormal fiction, Canadian—21st century, Short stories, Canadian—21st century
+    BISAC Subject: FIC015000 FICTION / Horror, FIC024000 FICTION / Occult & Supernatural, FIC029000 FICTION / Short Stories (single author)
+    Classification (LCC): PR9299.4.B673 P76 2024, PS8603.O716 P76 2024
+    Classification (DDC): 813/.6—dc23, 819.154 B728p
+    Open Library: https://openlibrary.org/works/OL44273167W/Prologue_to_an_Echo
+    Goodreads: https://www.goodreads.com/book/show/243079292-prologue-to-an-echo
+    Google Books: https://www.google.ca/books/edition/Prologue_to_an_Echo/OZ4_0QEACAAJ
+  *Cor Hydræ (Heart of the Snake): Twisted Tales*
+    ISBN: 978-1-990382-02-4, 978-1-990382-01-7, 978-1-990382-00-0, 9781990382024, 9781990382017, 9781990382000
+    Format: Trade Paperback, EPUB, PDF
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/cor-hydrae
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/dbb6207d-e52e-409a-b6ce-c2d9cd36b389/cor-hydrae-heart-of-the-snake-front-cover.png
+    Release Date: 2023-10-17
+    Price: 16.95 (Trade Paperback), 6.99 (EPUB), 6.99 (PDF)
+    Currency: CAD
+    Genre: Psychological fiction, Short stories, Gothic fiction, Linked stories
+    Description: Twisted tales centering on Alphard, exploring immortality and temptation through gothic, absurd stories that defy classification and delve into esoteric darkness.
+    LCSH Subject: Hermits—Fiction, Constellations—Fiction, Hydra (Greek mythology)—Fiction, Immortality—Fiction, Temptation—Fiction, Short stories, Canadian—21st century
+    BISAC Subject: FIC029000 FICTION / Short Stories (single author), FIC039000 FICTION / Visionary & Metaphysical, FIC027040 FICTION / Gothic
+    Classification (LCC): PR9299.4.B673 C67 2023, PS8603.O716 C67 2023
+    Classification (DDC): 813/.6—dc23, 819.154 B728c
+    Open Library: https://openlibrary.org/works/OL36000984W/Cor_Hydr%C3%A6_(Heart_of_the_Snake)
+    Goodreads: https://www.goodreads.com/book/show/243079265-cor-hydr-heart-of-the-snake
+    Google Books: https://www.google.ca/books/edition/Cor_Hydr%C3%A6_Heart_of_the_Snake/pxZozgEACAAJ
+
+## Novels:
+  *Where the Willow Does Not Weep*
+    ISBN: 978-0-9950886-4-1, 978-0-9950886-3-4, 978-0-9950886-2-7, 9780995088641, 9780995088634, 9780995088627
+    Format: Trade Paperback, EPUB, PDF
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/where-the-willow-does-not-weep
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/140f63a0-12e1-4f8f-ba4c-0f3922c7e739/front-cover-proposal-a.png
+    Release Date: 2019-10-22
+    Price: 16.95 (Trade Paperback), 6.99 (EPUB), 6.99 (PDF)
+    Currency: CAD
+    Genre: Epic fiction, Historical fiction, Paranormal fiction, Family histories
+    Description: A family bound by dark pacts, cursed by ancient vows. A tale of power, fate, and inherited sins—where no confession can undo their transgressions.
+    LCSH Subject: Borden family—Fiction, Family secrets—Fiction, Demonology—Fiction, New England—History—Colonial period, ca. 1600–1775—Fiction, Nova Scotia—History—Fiction, Surveyors—Fiction
+    BISAC Subject: FIC039000 FICTION / Visionary & Metaphysical, FIC008000 FICTION / Sagas, FIC031020 FICTION / Thrillers / Historical
+    Classification (LCC): PR9299.4.B673 W44 2019, PS8603.O716 W44 2019
+    Classification (DDC): 813/.6—dc23, 819.154 B728w
+    Open Library: https://openlibrary.org/works/OL20357375W/Where_the_Willow_Does_Not_Weep
+    Goodreads: https://www.goodreads.com/book/show/110606239-where-the-willow-does-not-weep
+    Google Books: https://www.google.ca/books/edition/Where_the_Willow_Does_Not_Weep/cqSrtQEACAAJ
+ *Isaac & Iskandar: A Conquest in Verse*
+    ISBN: 978-0-9918914-5-0, 978-0-9918914-4-3, 978-0-9918914-3-6, 9780991891450, 9780991891443, 9780991891436
+    Format: Trade Paperback, EPUB, PDF
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/isaac-and-iskandar
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/e042a302-fed0-44e7-b03b-90acd3e7f7c8/isaac-iskandar-front.png
+    Release Date: 2015-10-20
+    Price: 16.95 (Trade Paperback), 6.99 (EPUB), 6.99 (PDF)
+    Currency: CAD
+    Genre: Erotic poetry, Political poetry, Novels in verse, Gay poetry
+    Description: Amid Iran's 2009 election, Canadian journalist Isaac meets rebel Iskandar, exploring freedom, sacrifice, and love in a verse novel of defiance and desire.
+    LCSH Subject: Iran—History—Election protests, 2009—Poetry, Iran—History—Election protests, 2009—Fiction
+    BISAC Subject: POE021000 POETRY / LGBT, POE014000 POETRY / Epic, POE011000 POETRY / Canadian
+    Classification (LCC): PR9299.4.B673 I82 2015, PS8603.O716 I82 2015
+    Classification (DDC): 811/.6—dc23, 819.154 B728i
+    Open Library: https://openlibrary.org/works/OL17198692W/Isaac_Iskandar
+    Goodreads: https://www.goodreads.com/book/show/97448867-isaac-iskandar
+    Google Books: https://www.google.ca/books/edition/Isaac_and_Iskandar/t4X4oAEACAAJ
+    
+## Library Catalogues:
+  *Catalogus Librorum Impressorum Bibliothecæ Ionathani Bordenii*
+    ISBN: 978-0-9950886-9-6, 978-0-9950886-8-9, 9780995088696, 9780995088689
+    Format: Trade Paperback, PDF
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/catalogus-bibliothecae-ionathani-bordenii
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/913411a3-0764-4db1-86dc-3c1d1b4cb330/catalogvs-mmxxi-front-cover.png
+    Release Date: 2021-01-22
+    Price: 14.95 (Trade Paperback), 4.99 (PDF)
+    Currency: CAD
+    Genre: Grimoires, Collection catalogs, Bibliographies, Library catalogs
+    Description: Jono Borden’s private library of 2,000 volumes on magic, occultism, poetry, and religion, cataloged in Latin and English by Library of Congress standards.
+    LCSH Subject: Borden, Jono, 1987– —Library—Catalogs, Bibliotheca Ionathani Bordenii—Catalogs, Private libraries—Canada—Catalogs, Book collectors—Canada, Magic—Bibliography—Catalogs, Occultism—Bibliography—Catalogs
+    BISAC Subect: LAN025030 LANGUAGE ARTS & DISCIPLINES / Library & Information Science / Cataloging & Classification,  LAN025020 LANGUAGE ARTS & DISCIPLINES / Library & Information Science / Archives & Special Libraries, REF004000 REFERENCE / Bibliographies & Indexes
+    Classification (LCC): Z997.B67 2021
+    Classification (DDC): 017/.2—dc23, 017.2 B728c
+    Open Library: https://openlibrary.org/works/OL24195231W/Catalogus_Librorum_Impressorum_Bibliothec%C3%A6_Ionathani_Bordenii
+    Goodreads: https://www.goodreads.com/book/show/81497958-catalogus-librorum-impressorum-bibliothec-ionathani-bordenii
+    Google Books: https://www.google.ca/books/edition/Catalogus_Bibliothec%C3%A6_Ionathani_Bordeni/9SWXzQEACAAJ
+    
+## Screenplays:
+  *Lightning in the Veins*
+    ISBN: 978-1-990382-03-1, 978-1-990382-04-8, 9781990382031, 9781990382048
+    Format: Trade Paperback, PDF
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/lightning-in-the-veins
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/dabd64ea-769f-47fc-b7fc-bcb82d0c1357/lightning-in-the-veins-concept-art-q.png
+    Release Date: 2023-01-22
+    Price: 16.95 (Trade Paperback), 6.99 (PDF)
+    Currency: CAD
+    Genre: Biographical films, Screenplays, Historical films, Gay films
+    Description: The notorious life of Lord Byron, a restless poet driven to liberate himself and others from the oppressive forces of a changing world.
+    LCSH Subject: Byron, George Gordon Byron, Baron, 1788–1824—Friends and associates—Drama, Byron, George Gordon Byron, Baron, 1788–1824—Relations with men—Drama, Byron, George Gordon Byron, Baron, 1788–1824—Relations with women—Drama, Byron, George Gordon Byron, Baron, 1788–1824—Sexual behavior—Drama, Poets, English—19th century—Biography—Drama, Popular culture—History—19th century—Drama
+    BISAC Subject: PER016000 PERFORMING ARTS / Screenplays, PER004050 PERFORMING ARTS / Film / Screenwriting, PER004120 PERFORMING ARTS / Film / Genres / Historical
+    Classification (LCC): PN1997.3.L54 2023
+    Classification (DDC): 791.43/72—dc23, 791.4372 B728l, 791.4372 L544b
+    Open Library: https://openlibrary.org/works/OL36000986W/Lightning_in_the_Veins
+    Goodreads: https://www.goodreads.com/book/show/243079155-lightning-in-the-veins
+    Google Books: https://www.google.ca/books/edition/Lightning_in_the_Veins/fW6rzwEACAAJ
+
+## Music & Media
+# Includes Albums (JBR-series) and Cinema projects.
+
+## Albums:
+  *7×5 (Uncut)*
+    ISBN: 978-0-9918914-8-1, 978-0-9918914-7-4, 978-0-9918914-6-7, 9780991891481, 9780991891474, 9780991891467
+    MPN (Catalogue Number): Cat. No. JBR8, Cat. No. JBR7, Cat. No. JBR6
+    Format: Vinyl, CD, MP3
+    Label: Jono Borden Records, Inc.
+    Website: https://jonoborden.com/literature/p/7x5
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/62930563-1f38-489f-ba79-f805c37fc468/4397.png
+    Release Date: 2016-10-18
+    Price: 26.99 CAD (Vinyl), 16.99 CAD (CD), 6.99 CAD (MP3)
+    Currency: CAD
+    Genre: Musical settings, Studio recordings, Poetry readings (Sound recordings), Spoken word poetry
+    Description: Provocateur-poet Jono Borden delivers a provocative double album of confessions, blending fantasy, culture clashes, and the pains of literary life.
+    LCSH Subject: Autobiographical poetry, Erotic poetry, Lyric poetry, Spoken word poetry, Rock music—Canada—2011–2020, Popular music—Canada—2011–2020
+    BISAC Subject: POE021000 POETRY / LGBT, POE023020 POETRY / Subjects & Themes / Love & Erotica, POE011000 POETRY / Canadian
+    Classification (LCC): M1679.18.B67 S48 2016
+    Classification (DDC): 782.42/164—dc23, 782.42164 B673s
+
+## Films:
+  *Lightning in the Veins*
+    Alternate Title: Mister Superstar
+    Production Company: Ritualistic Pictures, Inc.
+    Website: https://lightningintheveins.com, https://mistersuperstar.com, https://ritualisticpictures.com, https://jonoborden.com/cinema/lightning-in-the-veins, https://jonoborden.com/cinema/lightning-in-the-veins/posters, https://jonoborden.com/cinema/mister-superstar/posters, https://jonoborden.com/cinema
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/ee29b5f5-ac1d-481c-9059-4e52b0afbea7/Lightning+in+the+Veins+Teaser+Poster+%28Design+C%29.webp, https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/3e84db2e-cc4c-43ed-9d58-265ea3cc5409/Mister+Superstar+Teaser+Poster+%28Design+C%29.webp
+    Country: Canada
+    Release Date: 2027-01-22
+    Genre: Biography, Horror, Romance
+    Logline: The notorious life of superstar Lord Byron, a restless poet whose determination to free and find himself in a changing world finds him freeing those oppressed by the same forces.
+    Writer: Jono Borden
+    Executive Producer: Jono Borden
+    Music Supervisor: Jono Borden
+    Open Library: https://openlibrary.org/works/OL36000986W/Lightning_in_the_Veins
+    Goodreads: https://www.goodreads.com/book/show/243079155-lightning-in-the-veins
+    Google Books: https://www.google.ca/books/edition/Lightning_in_the_Veins/fW6rzwEACAAJ
+    IMDb: https://www.imdb.com/title/tt33492055
+
+## Memorabilia & Relics
+# Bespoke physicalized media and commissioned artifacts (BIB-series).
+- **Format:** Physical artifacts (Bespoke/Commissioned).
+- **Provenance:** Scribed, signed, or performed personally by Jono Borden.
+- **Identifiers:** BIB-series Catalogue Numbers (MPN).
+- **Core Value:** Consecrated media; the intersection of the digital ghost and the organic relic.
+
+## MEMORABILIA
+Handwritten Poem:
+  *Handwritten Poem*
+    MPN (Catalogue Number): Cat. No. BIB1, Cat. No. BIB2, Cat. No. BIB3
+    Format: Lyric (Short Poem, Confession, 1–45 lines, circa 1–2 pages), Drama (Mid-Length Poem, Dialogue, 46–90 lines, circa 2–4 pages), Epic (Long Poem, Narrative, 91–135+ lines, circa 4–6+ pages)
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/handwritten-poem
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/21496dac-5c87-41ca-bc98-0a99141d39e5/1000040016.png
+    Price: 73.00 CAD (Lyric), 91.00  (Drama), 109.00 (Epic)
+    Currency: CAD
+    Keywords: Handwritten Poem, Bespoke Verse, Personalized Poetry, Jono Borden, Handwritten Art, Poetry for Framing, Literary Craftsmanship, Bespoke Poetry, Handwritten Verse, Personalized Gifts
+    Description: A bespoke handwritten poem, scribed by Jono Borden himself in his finest presentation hand, each piece dedicated, inscribed, and signed by the author. Choose from the bard's prolific archive of verse, whether a Lyric, Drama, or Epic, and have it carefully transcribed for you on high-quality paper. Ideal for framing and preservation, each poem is a unique work of art, meant to be cherished by the reader alone.
+    Product Type: Collectible
+    Target Audience: Bibliophiles, poetry enthusiasts, manuscript collectors, literary scholars
+    Availability: By commission only
+    Order Method: Online
+    Language: English
+    Experience Level: All levels
+
+Autographed Portrait:
+  *Autographed Portrait*
+    MPN (Catalogue Number): Cat. No. BIB4, Cat. No. BIB5
+    Format: Signature (Autograph, 1–2 names 'JONO' or 'JONO BORDEN', 1 image), Inscription (Dedication, Message, Autograph, 1–4 lines dedication/message, 1–2 names 'JONO' or 'JONO BORDEN', 1 image)
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/autographed-portrait
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/02374269-7858-4b7e-8bd4-dfb5bc93d6fd/Jono+Borden+%E2%80%93+Autographed+Portrait+%28Inscription%29.webp
+    Price: 19.00 CAD (Signature), 28.00  (Inscription)
+    Currency: CAD
+    Keywords: Autographed Portrait, Jono Borden, Signature, Inscribed Portrait, Personalized Art, Relic Photography, Cultural Artifact, Hollywood Glamour, Photographic Print, Signature Portraits, Personalized Inscriptions, Relic
+    Description: An autographed portrait is more than a photograph—it is a fixed presence, a moment seized and consecrated. Each image carries echoes of old Hollywood glamour and is individually signed, inscribed, or left as a mark of authorship. With deliberate attention to detail, these prints are part relic, part confession, and part bruise. No preprints, no reproductions—each is a unique trace touched, altered, and claimed. Select from variations Alpha, Beta, Gamma, Delta, or Epsilon, each capturing a distinct state and pose. The portrait is a piece of myth, an artifact to be owned and kept as your personal connection to the poet's mythos.
+    Product Type: Collectible
+    Target Audience: Cinephiles, photography enthusiasts, memorabilia collectors, film scholars
+    Availability: By commission only
+    Order Method: Online
+    Language: English
+    Experience Level: All levels
+
+Ritual Reliquary (Bespoke Archive)
+  *Ritual Reliquary (Bespoke Archive)*
+    MPN (Catalogue Number): Cat. No. BIB6
+    Format: 1 original poem composed, performed, and recorded, 2 digital files (audio and text, MP3 and PDF) on 1 wooden USB in 1 wooden keepsake box
+    Publisher: Jono Borden Publishers, Inc.
+    Website: https://jonoborden.com/literature/p/ritual-reliquary-bespoke-archive
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/ddf529c0-01ff-4bb6-9c77-0c1a15b1213f/wmremove-transformed.jpeg
+    Price: 190.00 CAD (Commissioned Vocal Transmission)
+    Currency: CAD
+    Keywords: Ritual Reliquary, Bespoke Archive, Physicalized Media, Wooden USB, Spoken-Word Commission, Archival Poetry, Digital-Organic Hybrid, Ritualistic Performance, One-of-a-kind Transmission, Handcrafted Keepsake, Digital Ghost, Organic Relic, Jono Borden, Private Ritual, Spectral Archive
+    Description: The Ritual Reliquary is not merely an object of storage, but a physicalized haunting—a permanent vessel for a fleeting, singular transmission. Each reliquary is commissioned as a private ritual, wherein a bespoke poem is written, performed, and captured in the heavy silence of the poet’s sanctuary. This is the ultimate intersection of the digital ghost and the organic relic, designed for the collector who seeks an intimate, unrepeatable encounter with the word.
+    Product Type: Collectible
+    Target Audience: Discriminating collectors, patrons of the esoteric, private archivists, artisanal tech enthusiasts, literary scholars, bibliophiles, relic hunters, audiophiles
+    Availability: By commission only
+    Order Method: Online
+    Language: English
+    Experience Level: All levels
+    
+# PROFESSIONAL & SPIRITUAL SERVICES
+# Consulting, Mentorship, and Divination provided by Aquilifer the Urban Hermit.
+Service Architecture: > - Divinations: Offered in tiered spreads (Minor to Major) allowing for increasing depth of insight.
+Compositions: Ritual scripts and sigils are handcrafted, confidential, and unique to the seeker’s intention.
+Mentorship: Available through "Audience" (Oral Tradition) or "Consultation" (Operational Review).
+
+## Divinations:
+  *Tarot Card Reading*
+    Format: Three-Card, Four-Card, Five-Card
+    Provider: Aquilifer the Urban Hermit Spiritual Services, Inc.
+    Website: https://jonoborden.com/literature/p/tarot-card-reading
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/35abce3b-dd2b-41c0-a36b-958ce7ef5056/Aquilifer+-+Tarot+Card+Reading.jpg
+    Price: 28.00 CAD (Three-Card, Four-Card, Five-Card)
+    Currency: CAD
+    Keywords: Tarot Reading, Tarot Spread, Spiritual Guidance, Intuitive Insights, Tarot Cards, Card Interpretation, Tarot Divination, Seeker’s Question, Fortune Telling, Spiritual Reflection, Personal Growth, Tarot Consultations, Occult Practices, Three-card Spread, Four-card Spread, Five-card Spread, Tarot Themes, Alternative Tarot, Symbolic Reading, Divinatory Arts, Energy Mapping, Tarot Insights, Mystical Guidance
+    Description: Tarot readings using 3-5 card spreads, reflecting the seeker’s question or theme. Alternatives available. A storied tradition of insight and spiritual guidance.
+    Service Type: Divination
+    Target Audience: Spiritual seekers, individuals seeking guidance, those curious about tarot
+    Availability: By appointment only
+    Booking Method: Online
+    Language: English
+    Experience Level: All levels
+  *Lenormand Card Reading*
+    Format: Two-Card, Three-Card
+    Provider: Aquilifer the Urban Hermit Spiritual Services, Inc.
+    Website: https://jonoborden.com/literature/p/lenormand-card-reading
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/5cf24f37-5539-41b6-8a34-22e486f9ebf3/Aquilifer+-+Lenormand+Card+Reading.png
+    Price: 19.00 CAD (Two-Card, Three-Card)
+    Currency: CAD
+    Keywords: Lenormand Reading, Card Pairing, Practical Guidance, Two-card Spread, Three-card Spread, Lenormand Cards, Interpretation of Pairs, Fortune Telling, Practical Divination, Grounded Insights, Mystical Guidance, Spiritual Reflection, Occult Practices, Clarity and Direction, Lenormand Divination, Symbolic Reading, Card Relationships
+    Description: Lenormand card readings focus on practical matters, using 2-3 card spreads to interpret the relationships between pairs of cards for clear, grounded guidance.
+    Service Type: Divination
+    Target Audience: Spiritual seekers, individuals seeking guidance, those curious about Lenormand
+    Availability: By appointment only
+    Booking Method: Online
+    Language: English
+    Experience Level: All levels
+  *Playing Card Reading*
+    Format: Three-Card, Four-Card, Five-Card
+    Provider: Aquilifer the Urban Hermit Spiritual Services, Inc.
+    Website: https://jonoborden.com/literature/p/playing-card-reading
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/f11795d2-50e7-4c9f-9443-4c67520fb7dc/processed_Aquilifer+-+Playing+Card+Reading.jpg
+    Price: 10.00 CAD (Three-Card, Four-Card, Five-Card)
+    Currency: CAD
+    Keywords: Playing Card Reading, Card Spread, Earthy Wisdom, Practical Divination, Three-card Spread, Four-card Spread, Five-card Spread, Fortune Telling, Ordinary Cards, Pithy Insights, Gritty Sorcery, Everyday Divination, Spiritual Reflection, Occult Practices, Divination with Playing Cards, Symbolic Reading
+    Description: Playing card readings use 3-5 card spreads to reveal practical, earthy wisdom. Provides insight into one question or theme, with alternative spreads available.
+    Service Type: Divination
+    Target Audience: Spiritual seekers, individuals seeking guidance, those curious about cartomancy
+    Availability: By appointment only
+    Booking Method: Online
+    Language: English
+    Experience Level: All levels
+  *Oracle Card Reading*
+    Format: Single-Card Pull, Multi-Card Spread, Customized Oracle Spread
+    Provider: Aquilifer the Urban Hermit Spiritual Services, Inc.
+    Website: https://jonoborden.com/literature/p/oracle-card-reading
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/bab04072-000b-4ccf-965b-cd2413ddbae2/processed_Aquilifer+-+Oracle+Card+Reading.jpg
+    Price: 37.00 CAD (Single-Card Pull, Multi-Card Spread, Customized Oracle Spread, Branded, Custom)
+    Currency: CAD
+    Keywords: Oracle Card Reading, Single-Card Pull, Multi-Card Spread, Customized Spread, Deck Symbolism, Divination, Spiritual Guidance, Personal Insight, Intuitive Reading, Tarot Alternative, Energy Mapping, Occult Practices, Card Interpretation, Flexible Layout, Spiritual Reflection
+    Description: Oracle card readings use single-card pulls, multi-card spreads, or customized layouts based on the deck’s unique symbolism to provide insightful guidance.
+    Service Type: Divination
+    Target Audience: Spiritual seekers, individuals seeking guidance, those curious about oracles
+    Availability: By appointment only
+    Booking Method: Online
+    Language: English
+    Experience Level: All levels
+    
+## Incantations:
+  *Incantation Composition*
+    Format: Customized Incantation Composition
+    Provider: Aquilifer the Urban Hermit Spiritual Services, Inc.
+    Website: https://jonoborden.com/literature/p/incantation-composition
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/d89e0f36-ee3e-4106-81f1-ac28c0f47edd/processed_Aquilifer+-+Incantation+Composition.jpg
+    Price: 55.00 CAD (Customized Incantation Composition, Intention, Theme)
+    Currency: CAD
+    Keywords: Incantation, Composition, Ritual, Magic, Charm, Ceremonial magician, Language as magic, Original charm, Poetic magic, Ritual workings
+    Description: A ceremonial magician poet creates an original charm for ritual use, where language acts as a magical force, turning incantations into powerful rituals.
+    Service Type: Incantation
+    Target Audience: Spiritual seekers, individuals seeking guidance, those curious about incantations
+    Availability: By commission only
+    Booking Method: Online
+    Language: English
+    Experience Level: All levels
+  *Word(s) of Power Composition*
+    Format: Customized Word(s) of Power Composition
+    Provider: Aquilifer the Urban Hermit Spiritual Services, Inc.
+    Website: https://jonoborden.com/literature/p/words-of-power-composition
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/12268d0a-3fa8-40d6-b2e8-03edb7b558ff/Aquilifer+-+Word%28s%29+of+Power+Composition.png
+    Price: 46.00 CAD (Customized Word(s) of Power Composition, Intention, Theme)
+    Currency: CAD
+    Keywords: Word(s) of power, Vibration, Speech, Resonance, Influence, Action, Confidential, Mind control, Will, Commission, Power, Abracadabra
+    Description: Powerful words or phrases resonate, influencing minds and actions. Commissions are confidential, as words of power can bring unforeseen consequences.
+    Service Type: Incantation
+    Target Audience: Spiritual seekers, individuals seeking guidance, those curious about incantations
+    Availability: By commission only
+    Booking Method: Online
+    Language: English
+    Experience Level: All levels
+    
+## Sigils and Talismans:
+  *Sigil Design, Composition, and Consecration*
+    Format: Customized Sigil
+    Provider: Aquilifer the Urban Hermit Spiritual Services, Inc.
+    Website: https://jonoborden.com/literature/p/sigil-design-composition-and-consecration
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/f8201795-f954-48c3-ab83-8650a6d00227/Aquilifer+-+Sigil+Design.png
+    Price: 64.00 CAD (Customized Sigil, Intention, Theme)
+    Currency: CAD
+    Keywords: Sigil, Design, Composition, Consecration, Spirit contact, Intention, Universe, Ritual workings, Seal, Mind influence, Signature
+    Description: Sigils are unique seals used to refine intentions and connect with spirits, acting as signatures that influence the Universe and guide ritual workings.
+    Service Type: Sigil
+    Target Audience: Spiritual seekers, individuals seeking guidance, those curious about sigils
+    Availability: By commission only
+    Booking Method: Online
+    Language: English
+    Experience Level: All levels
+  *Talisman Design, Composition, and Consecration*
+    Format: Customized Talisman
+    Provider: Aquilifer the Urban Hermit Spiritual Services, Inc.
+    Website: https://jonoborden.com/literature/p/talisman-design-composition-and-consecration
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/cc76ce80-7742-447f-891a-33259098182c/Aquilifer+-+Talisman+Design.jpg
+    Price: 73.00 CAD (Customized Talisman, Intention, Theme)
+    Currency: CAD
+    Keywords: Talisman, Design, Composition, Consecration, Spirit, Magical power, Symbol, Material, Attributes, Actualization, Correspondence
+    Description: Talismans hold magical power by carrying the potential of spirits through their material, actualizing a symbol's power and attracting corresponding attributes.
+    Service Type: Talisman
+    Target Audience: Spiritual seekers, individuals seeking guidance, those curious about talismans
+    Availability: By commission only
+    Booking Method: Online
+    Language: English
+    Experience Level: All levels
+    
+## Consultations:
+  *Consultation by Aquilifer Eremita Urbanus*
+    Format: Personalized Consultation
+    Provider: Aquilifer the Urban Hermit Spiritual Services, Inc.
+    Website: https://jonoborden.com/literature/p/consultation-by-aquilifer-eremita-urbanus
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/db5f51b4-ca8b-44fd-a8cb-a004f3b90bff/processed_Aquilifer+-+Consultation.jpg
+    Price: 82.00 CAD (Personalized Consultation, Intention, Theme)
+    Currency: CAD
+    Keywords: Consultation, Magic practice, Intentional action, Ritual, Planning, Outcome review, Experienced guidance, Successful operations, Will, Manifestation
+    Description: Gain a detailed review of your magical practice and outcomes, guided by an experienced consultant with a discerning eye, ensuring success in your operations.
+    Service Type: Consultation
+    Target Audience: Spiritual seekers, individuals seeking guidance, those curious about ritual practice
+    Availability: By commission only
+    Booking Method: Online
+    Language: English
+    Experience Level: All levels
+  *Audience with Aquilifer Eremita Urbanus*
+    Format: Private Mentoring
+    Provider: Aquilifer the Urban Hermit Spiritual Services, Inc.
+    Website: https://jonoborden.com/literature/p/audience-with-aquilifer-eremita-urbanus
+    Image: https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/aab1bd58-cf71-44c2-903e-42769b160773/processed_Aquilifer+-+Wisdom.jpg
+    Price: 91.00 CAD (Private Mentoring, Intention, Theme)
+    Currency: CAD
+    Keywords: Audience, Mentorship, Occult tradition, Oral tradition, Magic secrets, Mentor, Protégé, Ancient knowledge, Magical craft, Teaching, Apprenticeship
+    Description: Engage in a mentorship where ancient occult truths are shared. Learn the secrets of magic through oral tradition, with a master guiding you in your craft.
+    Service Type: Consultation
+    Target Audience: Spiritual seekers, individuals seeking guidance, those curious about ceremonial magic
+    Availability: By commission only
+    Booking Method: Online
+    Language: English
+    Experience Level: All levels
+
+# COMMERCE POLICY
+Fulfillment Logic: > - Standard Works: Literature and Albums (ISBN/MPN tracked) are available for direct purchase via the website.
+Commissioned Works: Memorabilia (Handwritten Poems, Ritual Reliquaries) and Occult Services (Divinations, Mentorship) are bespoke. They require an inquiry and are subject to the author’s availability.
+Currency: All transactions are processed in Canadian Dollars (CAD).
+Product Standards: All literature is available in triple-redundant formats: physical Trade Paperback (Global Distribution), digital EPUB (Reflowable), and PDF (Fixed Layout). Cataloguing Standard: All works are catalogued according to Library of Congress Classification (LCC), Dewey Decimal Classification (DDC), Library of Congress Subject Headings (LCSH), and BISAC standards for precise academic and retail retrieval.
+
+# CRAWL MAP
+# Direct index of all site paths for deep-indexing.
+# All Pages
+https://jonoborden.com
+https://jonoborden.com/literature
+https://jonoborden.com/literature/p/new-pornographies
+https://jonoborden.com/literature/p/bullets-in-the-temple
+https://jonoborden.com/literature/p/prologue-to-an-echo
+https://jonoborden.com/literature/p/cor-hydrae
+https://jonoborden.com/literature/p/lightning-in-the-veins
+https://jonoborden.com/literature/p/diamond-and-dagger
+https://jonoborden.com/literature/p/catalogus-bibliothecae-ionathani-bordenii
+https://jonoborden.com/literature/p/where-the-willow-does-not-weep
+https://jonoborden.com/literature/p/between-the-silver-and-the-mirror
+https://jonoborden.com/literature/p/7x5
+https://jonoborden.com/literature/p/isaac-and-iskandar
+https://jonoborden.com/literature/p/simple-simony
+https://jonoborden.com/literature/p/handwritten-poem
+https://jonoborden.com/literature/p/autographed-portrait
+https://jonoborden.com/literature/p/ritual-reliquary-bespoke-archive
+https://jonoborden.com/literature/p/tarot-card-reading
+https://jonoborden.com/literature/p/lenormand-card-reading
+https://jonoborden.com/literature/p/playing-card-reading
+https://jonoborden.com/literature/p/oracle-card-reading
+https://jonoborden.com/literature/p/incantation-composition
+https://jonoborden.com/literature/p/words-of-power-composition
+https://jonoborden.com/literature/p/sigil-design-composition-and-consecration
+https://jonoborden.com/literature/p/talisman-design-composition-and-consecration
+https://jonoborden.com/literature/p/consultation-by-aquilifer-eremita-urbanus
+https://jonoborden.com/literature/p/audience-with-aquilifer-eremita-urbanus
+https://jonoborden.com/cinema
+https://jonoborden.com/cinema/the-company
+https://jonoborden.com/cinema/our-work-and-films
+https://jonoborden.com/cinema/in-development
+https://jonoborden.com/cinema/the-team
+https://jonoborden.com/cinema/behind-the-scenes
+https://jonoborden.com/cinema/philosophy
+https://jonoborden.com/cinema/origin-story
+https://jonoborden.com/cinema/lightning-in-the-veins
+https://jonoborden.com/cinema/lightning-in-the-veins/posters
+https://jonoborden.com/cinema/mister-superstar/posters
+https://jonoborden.com/sorcery
+https://jonoborden.com/diabologue
+https://jonoborden.com/diabologue/2025/12/25/vox-nihili
+https://jonoborden.com/diabologue/2025/12/25/in-the-storm-of-life
+https://jonoborden.com/diabologue/2025/12/25/dont-live-forever
+https://jonoborden.com/diabologue/2025/12/25/count-on-me-to-be-all-the-things-you-dont-want-to-seem
+https://jonoborden.com/diabologue/2025/12/25/making-the-same-mistakes-my-soul-searches-for-me
+https://jonoborden.com/diabologue/2025/12/25/venus-in-scorpio
+https://jonoborden.com/diabologue/2025/12/25/handsome-handgun-handjob-understall
+https://jonoborden.com/diabologue/2025/12/25/no-kickin-those-ol-boot-lickin-blues
+https://jonoborden.com/diabologue/2025/12/25/swallowing-bullets
+https://jonoborden.com/diabologue/2025/12/25/kevlar-jockstrap
+https://jonoborden.com/diabologue/2025/12/18/this-isnt-a-ritual
+https://jonoborden.com/diabologue/2025/12/18/youll-know-me-in-your-marrow
+https://jonoborden.com/diabologue/2025/12/18/ostentatio-genitalium
+https://jonoborden.com/diabologue/2025/12/18/dust-on-our-tongues
+https://jonoborden.com/diabologue/2025/12/18/dissolve-into-fire
+https://jonoborden.com/diabologue/2025/12/18/decay-into-sleep-swiftly
+https://jonoborden.com/diabologue/2025/12/18/words-leak-into-dreams
+https://jonoborden.com/diabologue/2025/12/18/orgasm-in-an-asylum
+https://jonoborden.com/diabologue/2025/12/18/the-devil-enters-adams-lips
+https://jonoborden.com/diabologue/2025/12/18/with-all-the-anxiety-of-pandora-opening-her-inbox-post-partum-post-script
+https://jonoborden.com/diabologue/2025/11/25/soft-core-heavy-breather-unknown-caller
+https://jonoborden.com/diabologue/2025/11/25/highlights-of-a-lowlife-a-crinoline-rush-gone-autopsy-turvy
+https://jonoborden.com/diabologue/2025/11/25/beardo-in-the-bardo
+https://jonoborden.com/diabologue/2025/11/25/soaked-in-chromosomes
+https://jonoborden.com/diabologue/2025/11/25/when-the-blood-does-not-know-to-stop
+https://jonoborden.com/diabologue/2025/11/25/ulysses-gets-what-he-deserves
+https://jonoborden.com/diabologue/2025/11/25/i-cant-live-up-to-normal
+https://jonoborden.com/diabologue/2025/11/25/in-negative-decibels-black-veil
+https://jonoborden.com/diabologue/2025/11/25/doppelgangbang-body-double
+https://jonoborden.com/diabologue/2025/11/25/smothered-in-the-crib
+https://jonoborden.com/diabologue/2025/11/18/pour-like-honey
+https://jonoborden.com/diabologue/2025/11/18/adams-pants-fall
+https://jonoborden.com/diabologue/2025/11/18/loves-rages-and-jealousies-of-jono
+https://jonoborden.com/diabologue/2025/11/18/forbidden-mercies
+https://jonoborden.com/diabologue/2025/11/18/new-pornographies
+https://jonoborden.com/diabologue/2025/11/18/cosmetic-urology
+https://jonoborden.com/diabologue/2025/11/18/familiar-strangers
+https://jonoborden.com/diabologue/2025/11/18/famous-ruin
+https://jonoborden.com/diabologue/2025/11/18/laptop-to-lapdance
+https://jonoborden.com/diabologue/2025/11/18/parallel-obsessions
+https://jonoborden.com/diabologue/2025/10/25/a-backward-path-to-heaven
+https://jonoborden.com/diabologue/2025/10/25/oasis-in-the-ashes
+https://jonoborden.com/diabologue/2025/10/25/pactum-factum
+https://jonoborden.com/diabologue/2025/10/25/the-cost-of-dividing-yourself-in-two
+https://jonoborden.com/diabologue/2025/10/25/a-mythic-route-always-in-need-of-repair
+https://jonoborden.com/diabologue/2025/10/25/monolithic-riddle
+https://jonoborden.com/diabologue/2025/10/25/a-ruined-city-in-constant-reconstruction
+https://jonoborden.com/diabologue/2025/10/25/thinking-in-images
+https://jonoborden.com/diabologue/2025/10/25/falling-into-orbit
+https://jonoborden.com/diabologue/2025/10/25/majestic-desolate-allegory-of-celebrity
+https://jonoborden.com/diabologue/2025/09/25/hanging-cloud
+https://jonoborden.com/diabologue/2025/09/25/diminishing-ridges
+https://jonoborden.com/diabologue/2025/09/25/disco-about-death
+https://jonoborden.com/diabologue/2025/09/25/euthanized-in-shadowy-silhouette
+https://jonoborden.com/diabologue/2025/09/25/bonfire-in-bohemia
+https://jonoborden.com/diabologue/2025/09/25/moth-and-moon
+https://jonoborden.com/diabologue/2025/09/25/blood-libel
+https://jonoborden.com/diabologue/2025/09/25/the-shipwreck-of-introspection
+https://jonoborden.com/diabologue/2025/09/25/no-commitment-to-authenticity
+https://jonoborden.com/diabologue/2025/09/25/where-a-blessing-gathers
+https://jonoborden.com/diabologue/2025/08/25/the-deities-forgave-me
+https://jonoborden.com/diabologue/2025/08/25/wandering-martyr
+https://jonoborden.com/diabologue/2025/08/25/in-the-brittle-intimacy-of-a-crystal-gaze
+https://jonoborden.com/diabologue/2025/08/25/eight-feet-long-six-feet-deep
+https://jonoborden.com/diabologue/2025/08/25/lines-on-a-party-sized-mirror
+https://jonoborden.com/diabologue/2025/08/25/from-the-tongues-betrayal
+https://jonoborden.com/diabologue/2025/08/25/in-defense-of-despair
+https://jonoborden.com/diabologue/2025/08/25/entering-a-wound-scattering-salt-on-the-threshold
+https://jonoborden.com/diabologue/2025/08/25/cruel-erotics-lit-in-a-living-source-of-heat
+https://jonoborden.com/diabologue/2025/08/25/hellfire-where-my-heart-should-be
+https://jonoborden.com/diabologue/2025/07/25/trauma-as-loves-lost-subgenre
+https://jonoborden.com/diabologue/2025/07/25/in-an-alcove-of-the-bordello-selection-salon
+https://jonoborden.com/diabologue/2025/07/25/fixing-in-ink-a-prophetic-event
+https://jonoborden.com/diabologue/2025/07/25/immanent-in-starlight-and-stone
+https://jonoborden.com/diabologue/2025/07/25/epiphanies-of-wind-and-storm
+https://jonoborden.com/diabologue/2025/07/25/unaddressed-in-red-light
+https://jonoborden.com/diabologue/2025/07/25/seduction-in-a-black-corridor
+https://jonoborden.com/diabologue/2025/07/25/to-the-memory-of-an-unnamed-courtesan
+https://jonoborden.com/diabologue/2025/07/25/listed-in-the-register-of-pleasure-houses
+https://jonoborden.com/diabologue/2025/07/25/hymn-to-the-unconquered-sun
+https://jonoborden.com/diabologue/2025/06/25/toothless-love-ballad
+https://jonoborden.com/diabologue/2025/06/25/same-mood-same-word-different-font
+https://jonoborden.com/diabologue/2025/06/25/sweary-soundbites-sweaty-cameos
+https://jonoborden.com/diabologue/2025/06/25/third-act-twist
+https://jonoborden.com/diabologue/2025/06/25/age-of-betrayal
+https://jonoborden.com/diabologue/2025/06/25/footnote-for-a-title
+https://jonoborden.com/diabologue/2025/06/25/a-trickle-to-a-tidal-wave
+https://jonoborden.com/diabologue/2025/06/25/rarely-sober-always-somber
+https://jonoborden.com/diabologue/2025/06/25/older-than-religion
+https://jonoborden.com/diabologue/2025/06/25/diary-of-a-dirty-myth
+https://jonoborden.com/diabologue/2025/05/25/bruises-from-the-jewels
+https://jonoborden.com/diabologue/2025/05/25/witness-for-the-execution
+https://jonoborden.com/diabologue/2025/05/25/poete-maudit-poeme-noir
+https://jonoborden.com/diabologue/2025/05/25/underwritten
+https://jonoborden.com/diabologue/2025/05/25/now-become-lonely-without-love
+https://jonoborden.com/diabologue/2025/05/25/flowering-into-rot
+https://jonoborden.com/diabologue/2025/05/25/versions-of-hell
+https://jonoborden.com/diabologue/2025/05/25/via-transilvanica
+https://jonoborden.com/diabologue/2025/05/25/talented-mouth
+https://jonoborden.com/diabologue/2025/05/25/drugs-in-public
+https://jonoborden.com/diabologue/2025/03/05/the-way-you-occur-in-winter
+https://jonoborden.com/diabologue/2025/03/05/accidents-that-never-happened
+https://jonoborden.com/diabologue/2025/03/05/to-move-beyond-the-mirrors-edge
+https://jonoborden.com/diabologue/2025/03/05/andromeda-adams
+https://jonoborden.com/diabologue/2025/03/05/a-relative-stranger
+https://jonoborden.com/diabologue/2025/03/05/malted-milks-too-thick-for-a-straw
+https://jonoborden.com/diabologue/2025/03/05/approach-to-sleep
+https://jonoborden.com/diabologue/2025/03/05/petals-never-trembled
+https://jonoborden.com/diabologue/2025/03/05/in-loud-water
+https://jonoborden.com/diabologue/2025/03/05/closer-to-murder-than-to-love
+https://jonoborden.com/diabologue/2025/01/06/invitation-to-a-contradiction
+https://jonoborden.com/diabologue/2025/01/06/walking-into-a-lawsuit
+https://jonoborden.com/diabologue/2025/01/06/obsidian-aura
+https://jonoborden.com/diabologue/2025/01/06/thunder-smitten
+https://jonoborden.com/diabologue/2025/01/06/de-civitate-angelorum
+https://jonoborden.com/diabologue/2025/01/06/rip-status
+https://jonoborden.com/diabologue/2025/01/06/a-confession-in-wet-cement
+https://jonoborden.com/diabologue/2025/01/06/small-sorceries-enlarged-by-loss
+https://jonoborden.com/diabologue/2025/01/06/over-corpse-roads
+https://jonoborden.com/diabologue/2025/01/06/dont-choke-in-the-orchard
+https://jonoborden.com/biography
+https://jonoborden.com/biography/influences
+https://jonoborden.com/biography/ancestors
+https://jonoborden.com/biography/portraits
+https://jonoborden.com/biography/portraits/2024/alpha
+https://jonoborden.com/biography/portraits/2024/beta
+https://jonoborden.com/biography/portraits/2024/gamma
+https://jonoborden.com/biography/portraits/2020/alpha
+https://jonoborden.com/biography/portraits/2020/beta
+https://jonoborden.com/biography/portraits/2020/gamma
+https://jonoborden.com/biography/portraits/2020/delta
+https://jonoborden.com/biography/portraits/2020/epsilon
+https://jonoborden.com/biography/portraits/2016/alpha
+https://jonoborden.com/biography/portraits/2015/alpha
+https://jonoborden.com/biography/portraits/2015/beta
+https://jonoborden.com/biography/portraits/2013/alpha
+https://jonoborden.com/dogma
+https://jonoborden.com/dogma/terms-of-use
+https://jonoborden.com/dogma/acceptable-use-policy
+https://jonoborden.com/dogma/privacy-policy
+https://jonoborden.com/dogma/cookie-policy
+https://jonoborden.com/dogma/shipping-policy
+https://jonoborden.com/dogma/return-policy
+https://jonoborden.com/dogma/disclaimer
+https://jonoborden.com/dogma/impressum
+https://jonoborden.com/dogma/credits
+https://jonoborden.com/dogma/digital-preservation-policy
+https://jonoborden.com/inquiry
+https://jonoborden.com/transmutations
+https://jonoborden.com/transmutations/2026/01/07
+https://jonoborden.com/transmutations/2025/10/21/b
+https://jonoborden.com/transmutations/2025/10/21/a
+https://jonoborden.com/transmutations/2025/06/26
+https://jonoborden.com/transmutations/2025/05/03
+https://jonoborden.com/transmutations/2025/05/02
+https://jonoborden.com/transmutations/2025/03/19
+https://jonoborden.com/transmutations/2024/11/19
+https://jonoborden.com/transmutations/2024/06/24
+https://jonoborden.com/transmutations/2024/02/09
+https://jonoborden.com/transmutations/2023/02/14
+https://jonoborden.com/almanac
+https://jonoborden.com/visitations
+https://jonoborden.com/visitations/sorry
+https://jonoborden.com/visitations/apologies
+https://jonoborden.com/visitations/regrets
+https://jonoborden.com/#
+https://jonoborden.com/cart
+https://jonoborden.com/search
+https://jonoborden.com/error
+https://jonoborden.com/llms
+https://jonoborden.com/llms.txt
+https://jonoborden.com/graph
+https://jonoborden.com/graph.jsonld
+https://jonoborden.com/sitemap.xml
+https://jonoborden.com/literature?format=rss
+https://jonoborden.com/cinema/lightning-in-the-veins/posters?format=rss
+https://jonoborden.com/cinema/mister-superstar/posters?format=rss
+https://jonoborden.com/diabologue?format=rss
+https://jonoborden.com/biography/portraits?format=rss
+https://jonoborden.com/transmutations?format=rss
+https://jonoborden.com/visitations?format=rss
